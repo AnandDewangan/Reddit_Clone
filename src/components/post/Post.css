@@ -1,0 +1,21 @@
+.posts {
+    background-color: white;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    box-shadow: -1px 0px 5px 5px #f4f5fa;
+}
+.inputsection{
+    display: flex;
+    background-color: #f4f5fa;
+    padding:1rem ;
+    /* width:40rem; */
+}
+.input{
+    width: 23rem;
+    height: 2rem;
+    margin-left: 7rem;
+}
+.btn{
+    width: 7rem;
+    margin-left: 1rem;
+}
